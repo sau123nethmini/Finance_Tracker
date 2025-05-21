@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- New color palette -->
+    <color name="colorPrimary">#A3B6DD</color> <!-- Muted Blue -->
+    <color name="colorPrimaryVariant">#A9CFF7</color> <!-- Light Blue -->
+    <color name="colorSecondary">#C6E0EA</color> <!-- Pale Blue -->
+    <color name="colorBackground">#FFF4DE</color> <!-- Cream/Off-white -->
+    <color name="colorSurface">#FFF4DE</color>
+    <color name="colorAccent">#A9CFF7</color>
+    <!-- Text colors for contrast -->
+    <color name="text_primary">#2D3436</color>
+    <color name="text_secondary">#636E72</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Base theme colors -->
+    <color name="primary">#F38C79</color> <!-- coral/salmon primary -->
+    <color name="primary_dark">#E06E5A</color> <!-- darker variant for depth -->
+    <color name="primary_light">#FFAA98</color> <!-- lighter tint for highlights -->
+    <color name="secondary">#5B9EE1</color> <!-- sky blue secondary color -->
+    <color name="accent">#5B9EE1</color> <!-- sky blue accent that creates a striking contrast -->
+    <color name="accent_dark">#3F7BC0</color> <!-- darker accent for depth -->
+
+    <!-- Text colors -->
+    <color name="text_hint">#B2BEC3</color> <!-- light slate for hints -->
+
+    <!-- Background colors -->
+    <color name="backgroundclr">#FFF9F8</color> <!-- very light coral tint -->
+    <color name="background">#FFF9F8</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#FFEAE6</color> <!-- subtle coral-tinted divider -->
+
+    <!-- Status colors -->
+    <color name="success">#4FD1C5</color> <!-- teal -->
+    <color name="warning">#F7B731</color> <!-- golden yellow -->
+    <color name="error">#FC5C65</color> <!-- bright red -->
+    <color name="info">#45AAF2</color> <!-- bright blue -->
+
+    <!-- Transaction colors -->
+    <color name="income">#4FD1C5</color> <!-- teal -->
+    <color name="expense">#FC5C65</color> <!-- bright red -->
+
+    <!-- Budget status colors -->
+    <color name="budget_good">#4FD1C5</color>
+    <color name="budget_warning">#F7B731</color>
+    <color name="budget_exceeded">#FC5C65</color>
+
+    <!-- Chart colors - vibrant, energetic palette -->
+    <color name="chart_color_1">#F38C79</color> <!-- primary coral -->
+    <color name="chart_color_2">#5B9EE1</color> <!-- sky blue accent -->
+    <color name="chart_color_3">#4FD1C5</color> <!-- teal -->
+    <color name="chart_color_4">#A06AF9</color> <!-- purple -->
+    <color name="chart_color_5">#F7B731</color> <!-- golden yellow -->
+    <color name="chart_color_6">#26DE81</color> <!-- bright green -->
+    <color name="chart_color_7">#FC5C65</color> <!-- bright red -->
+    <color name="chart_color_8">#45AAF2</color> <!-- bright blue -->
+
+    <!-- Category colors (for visual identification) - vibrant palette that complements coral -->
+    <color name="category_food">#4FD1C5</color> <!-- teal -->
+    <color name="category_transport">#45AAF2</color> <!-- bright blue -->
+    <color name="category_bills">#FC5C65</color> <!-- bright red -->
+    <color name="category_entertainment">#A06AF9</color> <!-- purple -->
+    <color name="category_shopping">#F7B731</color> <!-- golden yellow -->
+    <color name="category_health">#26DE81</color> <!-- bright green -->
+    <color name="category_education">#5B9EE1</color> <!-- sky blue -->
+    <color name="category_housing">#778CA3</color> <!-- slate blue -->
+    <color name="category_other">#A5B1C2</color> <!-- light slate -->
+
+    <!-- Night mode / Dark theme colors -->
+    <color name="night_primary">#FF9F8E</color> <!-- brighter coral for night mode -->
+    <color name="night_background">#1E2022</color> <!-- very dark background -->
+    <color name="night_surface">#2D3436</color> <!-- dark surface -->
+    <color name="night_text_primary">#F5F5F5</color> <!-- off-white text -->
+    <color name="night_text_secondary">#DFE6E9</color> <!-- light gray text -->
+</resources>
